@@ -17,3 +17,8 @@
 - 💬 Ping me about **ReactJS**, **Node.js**, **JavaScript**, **Java**, **Algorithm**, **Development**, **Linux***
 - 📫 Reach me: [twitter.com/devcula](https://twitter.com/devcula)
 - ⚡️ Fun fact: I'm a huge Marvel fan
+
+### Contact me:
+<a href="https://twitter.com/dEvCuLa" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/twitter.svg" alt="My Twitter profile" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/devcula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="My Linkedin profile" height="40" width="40" /></a>
+<a href="https://t.me/dEvCuLa" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/telegram.svg" alt="Telegram link" height="40" width="40" /></a>
