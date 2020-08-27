@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 this is Abhishek, better known as dEvCuLa.
 
-<!--
-**devcula/devcula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Bengaluru, India.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Infosys Limited**
+- ⚙️ I use daily: `.js`, `.jsx`, `.java`, `.html`, `.css`, `.svg`, `.json`
+- 💻 Developed: [Plasmayoddha](https://www.plasmayoddha.in), [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), etc…
+- 🌱 Learning all about **Open Source**
+- ⏳ Currently working with **[Covid India Task Force](https://www.covidindiataskforce.org)** to fight against Covid-19
+- 💬 Ping me about **ReactJS**, **Node.js**, **JavaScript**, **Java**, **Algorithm**, **Development**
+- 📫 Reach me: [twitter.com/devcula](https://twitter.com/devcula)
+- ⚡️ Fun fact: I'm a huge Marvel fan
