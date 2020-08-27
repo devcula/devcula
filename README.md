@@ -13,6 +13,6 @@
 - 💻 Developed: [Plasmayoddha](https://www.plasmayoddha.in), [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), etc…
 - 🌱 Learning all about **Open Source**
 - ⏳ Currently working with **[Covid India Task Force](https://www.covidindiataskforce.org)** to fight against Covid-19
-- 💬 Ping me about **ReactJS**, **Node.js**, **JavaScript**, **Java**, **Algorithm**, **Development**
+- 💬 Ping me about **ReactJS**, **Node.js**, **JavaScript**, **Java**, **Algorithm**, **Development**, **Linux***
 - 📫 Reach me: [twitter.com/devcula](https://twitter.com/devcula)
 - ⚡️ Fun fact: I'm a huge Marvel fan
