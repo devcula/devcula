@@ -14,7 +14,7 @@
 - 🌱 Learning all about **Open Source**
 - ⏳ Currently working with **[Covid India Task Force](https://www.covidindiataskforce.org)** to fight against Covid-19
 - [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) I am a hardcore linux user
-- 💬 Ping me about **ReactJS**, **Node.js**, **JavaScript**, **Java**, **Algorithm**, **Development**, **Linux**
+- 💬 Ping me about **ReactJS**, **React-Native**, **Node.js**, **JavaScript**, **Java**, **Algorithm**, **Development**, **Linux**
 - ✉️ Email: [devcula@outlook.com](mailto:devcula@outlook.com)
 - ⚡️ Fun fact: I'm a huge Marvel fan
 
