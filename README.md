@@ -10,11 +10,11 @@
 
 - 🏢 I'm currently working at **Yellow Messenger**
 - ⚙️ I use daily: `.js`, `.jsx`, `.java`, `.html`, `.css`, `.svg`, `.json`
-- 💻 Developed: [Plasmayoddha](https://www.plasmayoddha.in), [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), etc…
-- 🌱 Learning all about **Open Source**
-- ⏳ Worked with **[Covid India Task Force](https://www.covidindiataskforce.org)** to fight against Covid-19
-- ⏳ Currently working with Andhra Pradesh Gov. to develop a medical record keeping and metrics generation website(React)/application(React Native)
-- [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) I am a hardcore linux user
+- 💻 Developed: [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), [Plasmayoddha](https://www.plasmayoddha.in), etc…
+- 🌱 **Open Source** Fanatic
+- ⏳ Fought with **[Covid India Task Force](https://www.covidindiataskforce.org)** against Covid-19
+- ℹ︎ Obidient employee by morning 🙇🏻‍, avid learner by night 🖥
+- [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) Linux is ❤️
 - 💬 Ping me about **ReactJS**, **React-Native**, **Node.js**, **JavaScript**, **Java**, **Linux**, **Algorithm**, **Development**, 
 - ✉️ Email: [devcula@outlook.com](mailto:devcula@outlook.com)
 - ⚡️ Fun fact: I'm a huge Marvel fan
