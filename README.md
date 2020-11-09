@@ -6,7 +6,7 @@
   </p>
 </div>
 
-#### I'm a Full-Stack Developer working in Bengaluru, India.
+#### I'm a Software Developer working in Bengaluru, India.
 
 - 🏢 I'm currently working at **Yellow Messenger**
 - ⚙️ I use daily: `.js`, `.jsx`, `.java`, `.html`, `.css`, `.svg`, `.json`
@@ -14,7 +14,7 @@
 - 🌱 **Open Source** Fanatic
 - ⏳ Fought with **[Covid India Task Force](https://www.covidindiataskforce.org)** against Covid-19
 - ℹ︎ Obidient employee by morning 🙇🏻‍, avid learner by night 🖥
-- [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) Linux is ❤️
+- [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) For me, Linux is ❤️
 - 💬 Ping me about **ReactJS**, **React-Native**, **Node.js**, **JavaScript**, **Java**, **Linux**, **Algorithm**, **Development**, 
 - ✉️ Email: [devcula@outlook.com](mailto:devcula@outlook.com)
 - ⚡️ Fun fact: I'm a huge Marvel fan
