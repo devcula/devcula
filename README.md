@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     
-   ## Hi there 👋 this is Abhishek, better known as dEvCuLa
+   ## Hi there 👋 this is Abhishek, aka dEvCuLa
    
   </p>
 </div>
@@ -13,7 +13,7 @@
 - 💻 Developed: [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), [Plasmayoddha](https://www.plasmayoddha.in), etc…
 - 🌱 **Open Source** Fanatic
 - ⏳ Fought with **[Covid India Task Force](https://www.covidindiataskforce.org)** against Covid-19
-- ℹ︎ Obidient employee by morning 🙇🏻‍, avid learner by night 🖥
+-  ℹ︎ Obidient employee by morning 🙇🏻‍, avid learner by night 🖥
 - [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) For me, Linux is ❤️
 - 💬 Ping me about **ReactJS**, **React-Native**, **Node.js**, **JavaScript**, **Java**, **Linux**, **Algorithm**, **Development**, 
 - ✉️ Email: [devcula@outlook.com](mailto:devcula@outlook.com)
