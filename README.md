@@ -6,7 +6,7 @@
   </p>
 </div>
 
-#### I'm a Software Developer working in Bengaluru, India.
+#### I'm a Software Engineer working in Bengaluru, India.
 
 - 🏢 I'm currently working at **Yellow Messenger**
 - ⚙️ I use daily: `.js`, `.jsx`, `.java`, `.html`, `.css`, `.svg`, `.json`
