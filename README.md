@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     
-   ## Hi there 👋 this is Abhishek, aka dEvCuLa.
+   ## Hi there 👋 this is Abhishek.
    
   </p>
 </div>
