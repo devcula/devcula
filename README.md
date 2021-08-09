@@ -8,7 +8,7 @@
 
 #### I'm a Software Engineer working in Bengaluru, India.
 
-- 🏢 I'm currently working at **Yellow Messenger**
+- 🏢 I'm currently working at **Yellow.ai**
 - ⚙️ I use daily: `.js`, `.jsx`, `.java`, `.html`, `.css`, `.svg`, `.json`
 - 💻 Developed: [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), [Plasmayoddha](https://www.plasmayoddha.in), etc…
 - 🌱 **Open Source** Fanatic
