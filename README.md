@@ -25,9 +25,7 @@
     
   </p>
   <a href="mailto:devcula@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
-
   <a href="https://www.linkedin.com/in/devcula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
-
   <a href="https://t.me/dEvCuLa" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/telegram.svg" alt="Telegram" height="40" width="40" /></a>
   <br/><br/>
 
