@@ -28,5 +28,6 @@
   <a href="https://www.linkedin.com/in/devcula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://t.me/dEvCuLa" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/telegram.svg" alt="Telegram" height="40" width="40" /></a>
   <br/><br/>
+
   <img align="center" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devcula&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
 </div>
