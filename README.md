@@ -20,10 +20,11 @@
 
 
 ## 🌐 Socials:
-<a href="mailto:devcula@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/devcula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40"></a>
+&nbsp; &nbsp;
+<a href="mailto:devcula@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -49,7 +50,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devcula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devcula&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devcula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
