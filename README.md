@@ -18,13 +18,12 @@
 - 💬 Ping me about **Node.js**, **JavaScript**, **TypeScript**, **Generative AI & LLMs**, **Java**, **Linux**, **Algorithms**, **ReactJS**, **React-Native**.
 - ⚡️ Fun fact: I'm a huge Formula 1 and a MCU fan.
 
-##
+
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/devcula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40"></a>
 &nbsp; &nbsp;
 <a href="mailto:devcula@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>
 
-##
 ## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,7 +50,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-##
 ## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devcula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=devcula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
