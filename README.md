@@ -20,7 +20,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg)](https://linkedin.com/in/devcula) [![Email](https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg)](mailto:devcula@outlook.com) 
+<a href="mailto:devcula@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/devcula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40"></a>
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
