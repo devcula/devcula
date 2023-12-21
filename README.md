@@ -11,7 +11,7 @@
 - 🏢 I'm currently working at **Yellow.ai** as SDE in R&D team.
 - ⚙️ I use daily: `.ts`, `.js`, `.json`, `.sql`, `.java`, `.py`, `.csv` etc..
 - 🌱 I am currently learning AI, although I also have a keen interest in blockchain and quantum computing. 🖥
-- &nbsp;ℹ︎ I am an **Open Source** Fanatic.
+- &nbsp;ℹ︎ I am a **Open Source** Fanatic.
 - [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) Linux is my weapon of choice.
 - ⏳ I volunteered in a fight against Covid-19 with **[Covid India Task Force](https://www.covidindiataskforce.org)**
 - 💻 & Developed: [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), [Plasmayoddha](https://www.plasmayoddha.in), etc…
