@@ -15,7 +15,7 @@
 - [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) Linux is my weapon of choice.
 - ⏳ I volunteered in a fight against Covid-19 with **[Covid India Task Force](https://www.covidindiataskforce.org)**
 - 💻 & Developed: [TracerIND](https://tracerind.covidindiataskforce.org), [Covid Monitor](https://devcula.github.io/corona-monitor), [Plasmayoddha](https://www.plasmayoddha.in), etc…
-- 💬 Ping me about **Node.js**, **JavaScript**, **TypeScript**, **Generative AI & LLMs**, **Java**, **Linux**, **Algorithms**, **ReactJS**, **React-Native**.
+- 💬 Ping me about **Node.js**, **JavaScript**, **TypeScript**, **Generative AI & LLMs**, **Java**, **Linux**, **Algorithms**, **ReactJS**, **React-Native**, **Next.js**, **Tailwind CSS**.
 - ⚡️ Fun fact: I'm a huge Formula 1 and a MCU fan.
 
 
