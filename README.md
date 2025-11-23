@@ -8,7 +8,7 @@
 
 #### I'm a Software Engineer from India.
 
-- 🏢 I'm currently working at **Yellow.ai** as SDE in R&D team.
+- 🏢 I'm currently working at **Yellow.ai** as SDE-2 in R&D team.
 - ⚙️ I use daily: `.ts`, `.js`, `.json`, `.sql`, `.java`, `.py`, `.csv` etc..
 - 🌱 I am currently learning AI, although I also have a keen interest in blockchain and quantum computing. 🖥
 - &nbsp;ℹ︎ I am an **Open Source** Fanatic.
