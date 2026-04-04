@@ -8,8 +8,8 @@
 
 #### I'm a Software Engineer from India.
 
-- 🏢 I'm currently working at **Yellow.ai** as SDE-2 in R&D team.
-- ⚙️ I use daily: `.ts`, `.js`, `.json`, `.sql`, `.java`, `.py`, `.csv` etc..
+- 🏢 I'm currently working at **Five9** as Staff Software Engineer in R&D - AI & Automation.
+- ⚙️ I use daily: `.java`, `.ts`, `.js`, `.json`, `.sql`, `.java`, `.py`, `.csv` etc..
 - 🌱 I am currently learning AI, although I also have a keen interest in blockchain and quantum computing. 🖥
 - &nbsp;ℹ︎ I am an **Open Source** Fanatic.
 - [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) Linux is my weapon of choice.
